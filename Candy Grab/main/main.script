@@ -1,0 +1,4 @@
+function init(self)
+	math.randomseed(os.time())
+	sound.play("main#mainmusic")
+end
